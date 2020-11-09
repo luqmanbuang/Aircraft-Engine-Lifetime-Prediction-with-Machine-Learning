@@ -1,4 +1,4 @@
-*Note: To access the codes, open the Main.py file and also see the instructions in the Datasets folder as well.*
+*Note: To access the codes, open the Main.ipynb file and also see the instructions in the Datasets folder as well.*
 
 # Capstone
 Final year capstone project - Aircraft Engine Lifetime Prediction with Machine Learning
