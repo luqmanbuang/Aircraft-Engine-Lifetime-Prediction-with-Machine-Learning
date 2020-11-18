@@ -12,3 +12,5 @@ As the main power source for aircraft, an aero health engine is critical to ensu
 3.Introduce other advanced algorithms to further improve the prediction performance, such as involving time series analysis.
 
 The real dataset provided by the National Aeronautics and Space Administration (NASA) will be used in this project for proof of concept.
+
+![RUL calculation](https://drive.google.com/uc?id=1TrcNNFORfH14ddc0Ek3J89KTqJ8t9p2O)
